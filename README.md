@@ -1,10 +1,18 @@
 # Version-Control-Project
 
+# How To Use
+
+* Launch the code using a platform that runs IPNYB
+* Upon running the code
+1. Enter your name
+2. Enter your current age
+3. It will give you your birth year
+
+# How it works
+
 * It takes a name input
-* It takes some other input
-* It does Something™ with this other input
-
-
+* It takes some other input (Age)
+* It finds the users birth year using their age
 
 
 # Why Code of Conduct
